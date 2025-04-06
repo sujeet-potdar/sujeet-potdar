@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sujeet-potdar
-- 👀 I’m interested in Web development
-- 🌱 I’m currently learning JS
+- 👀 I’m interested in Java Programming
+- 🌱 I’m currently learning Spring Boot
 - 📫 How to reach me sujeetpotdar2004@gmail.com
 
 <!---
